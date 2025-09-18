@@ -22,4 +22,20 @@ Evaluate these models using appropriate accuracy metrics. If accuracy is low, do
 ## Submission:
 1) Link of GitHub for code.
 2) Document answering the questions
-3) Explaining how you worked in a group in no more than 1000 words. 
+3) Explaining how you worked in a group in no more than 1000 words.
+
+# Setup and instalation
+
+## Windows
+#### Sidenote: Using the visual studio code python environment can help with setup and activation
+
+Run these commands to setup this project on a new computer
+```
+py -m venv .venv
+```
+Then, using the terminal, run the Activate script (depending on the terminal you're using select the appropriate activate file)
+
+Then install the dependencies using
+```
+pip install -r requirements.txt
+```
