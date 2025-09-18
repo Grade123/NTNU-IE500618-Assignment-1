@@ -34,8 +34,3 @@ Run these commands to setup this project on a new computer
 py -m venv .venv
 ```
 Then, using the terminal, run the Activate script (depending on the terminal you're using select the appropriate activate file)
-
-Then install the dependencies using
-```
-pip install -r requirements.txt
-```
