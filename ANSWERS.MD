@@ -15,3 +15,8 @@
 ### Reflections on teamwork 
 
 For this assignmet we decided to work online.
+We started by lookin at the data and trying to understand what the different features mean.
+
+Next we look at the corrolation betweeen the sales price and the different numerical features
+
+We decided to remove PID
