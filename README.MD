@@ -7,14 +7,14 @@ Your main focus with this assignment will be on data preprocessing, visualizing,
 
 Please download the dataset online https://www.kaggle.com/datasets/shashanknecrothapa/ames-housing-dataset.
 
-Start by exploring, preprocessing, visualizing, and feature engineering of data, using statistics and correlation analysis.
-Essentially, using these techniques you should be able to reason
+Start by exploring, preprocessing, visualizing, and feature engineering of data, using statistics and correlation analysis. Essentially, using these techniques you should be able to reason
 1. Which features are important for house price prediction?
 2. How did you decided that these features are important?
 3. What important information did you learn from data visualization?
 4. Was there a need to create unbiased test dataset? If yes, how?
 5. Are there any biases in the data fed to the model?
 6. Reflect how can you get better prediction results without changing the model?
+
 
 Implement and compare three regression algorithms, "LinearRegression", "PolynomialFeatures", and ensemble regression model (either Gradientboostingregressor or RandomforestRegressor).
 Evaluate these models using appropriate accuracy metrics. If accuracy is low, don't worry. Explain your reasoning for choosing features in the jupyter notebook submission.
